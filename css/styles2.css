@@ -20,12 +20,7 @@ h2 {
   font-size: 20px;
   line-height: 30px;
 }
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
+
 p {
   color: purple;
   text-align: center;
@@ -44,4 +39,10 @@ ul {
   font-size: 20px;
   line-height: 30px;
   list-style-position: inside;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
